@@ -1,4 +1,4 @@
-import os
+ import os
 import streamlit as st
 from bokeh.models.widgets import Button
 #from bokeh.io import show
@@ -15,7 +15,7 @@ from gtts import gTTS
 from googletrans import Translator
 
 
-st.title("TRADUCTOR.")
+st.title("TRADUCTOR de Lore.")
 st.subheader("Escucho lo que quieres traducir.")
 
 
